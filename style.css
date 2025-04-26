@@ -528,7 +528,7 @@ section.dark .section-title::after{
 }
 
 footer{
-  background: url(altbg.jpg) no-repeat center;
+  background: url(https://raw.githubusercontent.com/lanuxproject/lanuxproject.github.io/refs/heads/main/altbg.jpg) no-repeat center;
   color: #fff;
   padding: 80px 0;
   text-align: center;
