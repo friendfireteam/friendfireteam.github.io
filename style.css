@@ -104,7 +104,7 @@ html{
 #home{
   height: 100vh;
   min-height: 500px;
-  background: url(https://www.itopya.com/blog/wp-content/uploads/2023/09/Counter-Strike-2-1089x720.jpg) no-repeat center;
+  background: url(bg.png.) no-repeat center;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -128,13 +128,13 @@ html{
 }
 
 #home .content h1::after{
-  content: "Friendy Fire";
+  content: "Lanux Ltd.";
   animation: textanim 10s linear infinite;
 }
 
 @keyframes textanim{
   25%{
-    content: "Counter Strike 2";
+    content: "En Kaliteli Projeler";
   }
   
 }
